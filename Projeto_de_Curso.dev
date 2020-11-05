@@ -1,6 +1,6 @@
 [Project]
-FileName=Projeto de Curso.dev
-Name=Projeto de Curso
+FileName=Projeto_de_Curso.dev
+Name=Projeto_de_Curso
 Type=1
 Ver=2
 ObjFiles=
@@ -12,7 +12,7 @@ MakeIncludes=
 Compiler=
 CppCompiler=
 Linker=
-IsCpp=0
+IsCpp=1
 Icon=
 ExeOutput=
 ObjectOutput=
@@ -51,8 +51,8 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=main.c
-CompileCpp=0
+FileName=main.cpp
+CompileCpp=1
 Folder=
 Compile=1
 Link=1
