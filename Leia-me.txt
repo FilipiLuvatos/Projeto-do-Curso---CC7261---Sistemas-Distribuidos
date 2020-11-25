@@ -1,0 +1,3 @@
+Para rodar o codigo é necessario o Visual Code e o Node Js
+
+Após instalar tudo é só "node main.js"
